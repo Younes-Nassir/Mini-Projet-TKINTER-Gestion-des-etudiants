@@ -1,4 +1,5 @@
-# Gestion Étudiants avec Tkinter
+# Projet de gestion etudiants avec Tkinter
+
 ![Preview](Loginpage.png)
 ![Preview](Main.png)
 
